@@ -21,5 +21,5 @@ Web features include:
   links: linking to current and future projects.
   contact: contact details.
 
-  ![Alt text](/images/Portfoli-Img.jpg)
+  ![Alt text](/assets/images/Portfoli-Img.jpg)
   
