@@ -48,7 +48,7 @@ a:hover {
 .hero {
   height: 400px;
   width: 100%;
-  background: url(/assets/images/02-hero-bg.jpg) center/cover;
+  background: url(./assets/images/02-hero-bg.jpg) center/cover;
   position: relative;
 }
 
